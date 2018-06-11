@@ -1,0 +1,79 @@
+syntax = "proto2";
+
+// protoc -I=./ --cpp_out=./  raft.proto
+
+package craft;
+
+option cc_generic_services = true;
+
+message RequestVoteRequest {
+  required string server_id = 1;
+  required string peer_id = 2;
+  required int64 term = 3;
+  required int64 last_log_term = 4;
+  required int64 last_log_index = 5;
+};
+
+message RequestVoteResponse {
+  required int64 term = 1;
+  required bool granted = 2;
+};
+
+message LogEntry {
+  enum LogEntryType {
+    kUnknown = 0;
+    kNOOP = 1;
+    kData = 2;
+    kLock = 3;
+    kUnlock = 4;
+  }
+
+  required LogEntryType type = 1;
+  required int64 term = 2;
+  optional bytes log_data = 3;
+};
+
+message AppendEntriesRequest {
+  required string server_id = 1;
+  required string peer_id = 2;
+  required int64 term = 3;
+  required int64 prev_log_term = 4;
+  required int64 prev_log_index = 5;
+  required int64 committed_index = 6;
+
+  repeated LogEntry entries = 7;
+};
+
+message AppendEntriesResponse {
+  required int64 term = 1;
+  required bool success = 2;
+  optional int64 last_log_index = 3;
+};
+
+service RpcRaftService {
+  rpc RequestVote(RequestVoteRequest) returns (RequestVoteResponse);
+  rpc AppendEntries(AppendEntriesRequest) returns (AppendEntriesResponse);
+};
+
+message LockRequest {
+  required string key = 1;
+  required string owner = 2;
+  required int64 time_ms = 3;
+};
+
+message LockResponse {
+  required bool acquired = 1;
+  required string key = 2;
+  required string owner = 3;
+}
+
+message UnlockRequest {
+  required string key = 1;
+  required string owner = 2;
+};
+
+message UnlockResponse {
+  required bool released = 1;
+  required string key = 2;
+  required string owner = 3;
+}

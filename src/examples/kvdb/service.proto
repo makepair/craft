@@ -1,0 +1,63 @@
+syntax = "proto2";
+
+// protoc -I=./ --cpp_out=./  raft.proto
+
+package kvdb;
+
+option cc_generic_services = true;
+
+message GetRequest {
+  required int64 sequence_num = 1;
+  required bytes key = 2;
+};
+
+message GetResponse {
+  required int64 sequence_num = 1;
+  required bool success = 2;
+  optional int32 result = 3;
+  optional string server_id = 4;
+  optional string error_txt = 5;
+  optional bytes value = 6;
+};
+
+message PutRequest {
+  required int64 sequence_num = 1;
+  required bytes key = 2;
+  required bytes value = 3;
+};
+
+message PutResponse {
+  required int64 sequence_num = 1;
+  required bool success = 2;
+  optional int32 result = 3;
+  optional string server_id = 4;
+  optional string error_txt = 5;
+};
+
+message LockRequest {
+  required int64 sequence_num = 1;
+  required string key = 2;
+  required string owner = 3;
+  required int32 timeout_ms = 4;
+};
+
+message UnlockRequest {
+  required int64 sequence_num = 1;
+  required string key = 2;
+  required string owner = 3;
+}
+
+message Response {
+  required int64 sequence_num = 1;
+  required bool success = 2;
+  optional int32 result = 3;
+  optional string server_id = 4;
+  optional string error_txt = 5;
+}
+
+service ProtoKVDBService {
+  rpc Get(GetRequest) returns (GetResponse);
+  rpc Put(PutRequest) returns (PutResponse);
+  rpc Lock(LockRequest) returns (Response);
+  rpc Unlock(UnlockRequest) returns (Response);
+}
