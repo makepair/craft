@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-09T10:37:02.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.1 Safari/605.1.15" etag="YsNjySPVLm5571ipWHrl" version="12.2.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-11-09T10:40:05.223Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.1 Safari/605.1.15" etag="IbEkKoIBNwmIsABuhCaP" version="12.2.3" type="github" pages="2">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1066" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -96,8 +96,10 @@
         <mxCell id="MmcqLC3iyLcUtxY_y7rE-2" value="图表对象绘制" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
           <mxGeometry x="220" y="20" width="200" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-3" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;startArrow=block;startFill=1;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-0" target="3sE_NvZFQu7x4BtJ_xMA-2">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-24" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-0" target="3sE_NvZFQu7x4BtJ_xMA-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518" y="170" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3sE_NvZFQu7x4BtJ_xMA-0" value="KETChartLayerVisual.chartRender" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
           <mxGeometry x="188" y="140" width="250" height="60" as="geometry"/>
@@ -105,8 +107,30 @@
         <mxCell id="3sE_NvZFQu7x4BtJ_xMA-5" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-0" target="3sE_NvZFQu7x4BtJ_xMA-4">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-22" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-2" target="3sE_NvZFQu7x4BtJ_xMA-21">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="3sE_NvZFQu7x4BtJ_xMA-2" value="KETChartLayer " style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
-          <mxGeometry x="560" y="170" width="200" height="60" as="geometry"/>
+          <mxGeometry x="560" y="140" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-26" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="376" y="200" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="410" y="240"/>
+              <mxPoint x="450" y="330"/>
+              <mxPoint x="480" y="380"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-28" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-21" target="3sE_NvZFQu7x4BtJ_xMA-27">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-21" value="KETChartLayer " style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="560" y="280" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-27" value="KETChartLayer " style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="560" y="420" width="200" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="3sE_NvZFQu7x4BtJ_xMA-7" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-4" target="3sE_NvZFQu7x4BtJ_xMA-6">
           <mxGeometry relative="1" as="geometry"/>
@@ -142,10 +166,22 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="3sE_NvZFQu7x4BtJ_xMA-14" value="EtShape 图表对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
-          <mxGeometry x="380" y="770" width="200" height="60" as="geometry"/>
+          <mxGeometry x="200" y="850" width="200" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-17" value="EtShape 图表对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
-          <mxGeometry x="550" y="620" width="200" height="60" as="geometry"/>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-30" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-17" target="3sE_NvZFQu7x4BtJ_xMA-29">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-17" value="KETChartShapeVisual.renderSelf" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="470" y="950" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-32" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-29" target="3sE_NvZFQu7x4BtJ_xMA-31">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-29" value="设置对象需要的剪切区域" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="490" y="810" width="300" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-31" value="调用对象绘制进行实际的绘制" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="480" y="670" width="300" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
