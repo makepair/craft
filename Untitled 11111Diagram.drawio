@@ -1,79 +1,79 @@
-<mxfile host="www.draw.io" modified="2019-11-09T08:04:49.426Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" etag="QqMqaX56YHcjLB5IzzTe" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-09T10:37:02.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.1 Safari/605.1.15" etag="YsNjySPVLm5571ipWHrl" version="12.2.3" type="github" pages="2">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1358" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-65" value="EtShape 图表对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-65" value="EtShape 图表对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="676" y="155" width="200" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-68" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" edge="1" parent="1" source="3" target="waPN-zL2iwQJFOT_Tszx-67">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-68" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="3" target="waPN-zL2iwQJFOT_Tszx-67" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="3" value="EtChartLayer 图表层对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="672" y="260" width="208" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-70" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" edge="1" parent="1" source="waPN-zL2iwQJFOT_Tszx-67" target="waPN-zL2iwQJFOT_Tszx-69">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-70" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="waPN-zL2iwQJFOT_Tszx-67" target="waPN-zL2iwQJFOT_Tszx-69" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-72" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" edge="1" parent="1" source="waPN-zL2iwQJFOT_Tszx-67" target="waPN-zL2iwQJFOT_Tszx-71">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-72" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="waPN-zL2iwQJFOT_Tszx-67" target="waPN-zL2iwQJFOT_Tszx-71" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-74" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" edge="1" parent="1" source="waPN-zL2iwQJFOT_Tszx-67" target="waPN-zL2iwQJFOT_Tszx-73">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-74" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="waPN-zL2iwQJFOT_Tszx-67" target="waPN-zL2iwQJFOT_Tszx-73" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-67" value="EtChartRoot 根节点" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-67" value="EtChartRoot 根节点" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="666" y="370" width="220" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-73" value="EtChartText 图表标题对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-73" value="EtChartText 图表标题对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="991" y="540" width="220" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-81" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" edge="1" parent="1" source="waPN-zL2iwQJFOT_Tszx-71" target="waPN-zL2iwQJFOT_Tszx-80">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-81" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="waPN-zL2iwQJFOT_Tszx-71" target="waPN-zL2iwQJFOT_Tszx-80" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-71" value="EtChartSeriesCollection 系列容器" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-71" value="EtChartSeriesCollection 系列容器" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="642" y="540" width="268" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-83" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" edge="1" parent="1" source="waPN-zL2iwQJFOT_Tszx-80" target="waPN-zL2iwQJFOT_Tszx-82">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-83" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="waPN-zL2iwQJFOT_Tszx-80" target="waPN-zL2iwQJFOT_Tszx-82" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-85" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" edge="1" parent="1" source="waPN-zL2iwQJFOT_Tszx-80" target="waPN-zL2iwQJFOT_Tszx-84">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-85" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="waPN-zL2iwQJFOT_Tszx-80" target="waPN-zL2iwQJFOT_Tszx-84" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-80" value="EtChartSeries 系列对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-80" value="EtChartSeries 系列对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="910" y="690" width="238" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-84" value="EtChartMarker 系列标记对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-84" value="EtChartMarker 系列标记对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1070" y="840" width="236" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-82" value="EtChartDataPoint 数据点对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-82" value="EtChartDataPoint 数据点对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="770" y="840" width="250" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-76" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" edge="1" parent="1" source="waPN-zL2iwQJFOT_Tszx-69" target="waPN-zL2iwQJFOT_Tszx-75">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-76" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="waPN-zL2iwQJFOT_Tszx-69" target="waPN-zL2iwQJFOT_Tszx-75" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-79" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" edge="1" parent="1" source="waPN-zL2iwQJFOT_Tszx-69" target="waPN-zL2iwQJFOT_Tszx-78">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-79" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="waPN-zL2iwQJFOT_Tszx-69" target="waPN-zL2iwQJFOT_Tszx-78" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-69" value="EtChartPlot 绘图区对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-69" value="EtChartPlot 绘图区对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="360" y="540" width="220" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-90" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" edge="1" parent="1" source="waPN-zL2iwQJFOT_Tszx-78" target="waPN-zL2iwQJFOT_Tszx-89">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-90" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="waPN-zL2iwQJFOT_Tszx-78" target="waPN-zL2iwQJFOT_Tszx-89" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-78" value="EtCoreCharts 图表类型容器" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-78" value="EtCoreCharts 图表类型容器" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="480" y="710" width="220" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-89" value="EtCoreChart 图表类型" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-89" value="EtCoreChart 图表类型" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="480" y="840" width="220" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-88" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" edge="1" parent="1" source="waPN-zL2iwQJFOT_Tszx-75" target="waPN-zL2iwQJFOT_Tszx-87">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-88" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;" parent="1" source="waPN-zL2iwQJFOT_Tszx-75" target="waPN-zL2iwQJFOT_Tszx-87" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-75" value="EtChartAxes 坐标轴容器" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-75" value="EtChartAxes 坐标轴容器" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="200" y="710" width="220" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="waPN-zL2iwQJFOT_Tszx-87" value="EtChartAxis 坐标轴对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="waPN-zL2iwQJFOT_Tszx-87" value="EtChartAxis 坐标轴对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="200" y="840" width="220" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#666666;fillColor=#f5f5f5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="waPN-zL2iwQJFOT_Tszx-65" target="3" edge="1">
@@ -81,6 +81,71 @@
             <mxPoint x="22" y="265.5" as="sourcePoint"/>
             <mxPoint x="122" y="165.5" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sTVHcnpiXPsgWJui3WbM" name="Page-2">
+    <mxGraphModel dx="1066" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="MmcqLC3iyLcUtxY_y7rE-0"/>
+        <mxCell id="MmcqLC3iyLcUtxY_y7rE-1" parent="MmcqLC3iyLcUtxY_y7rE-0"/>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-1" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="MmcqLC3iyLcUtxY_y7rE-2" target="3sE_NvZFQu7x4BtJ_xMA-0">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="MmcqLC3iyLcUtxY_y7rE-2" value="图表对象绘制" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="220" y="20" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-3" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;startArrow=block;startFill=1;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-0" target="3sE_NvZFQu7x4BtJ_xMA-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-0" value="KETChartLayerVisual.chartRender" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="188" y="140" width="250" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-5" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-0" target="3sE_NvZFQu7x4BtJ_xMA-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-2" value="KETChartLayer " style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="560" y="170" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-7" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-4" target="3sE_NvZFQu7x4BtJ_xMA-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-4" value="离屏 canvas" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="180" y="270" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-9" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-6" target="3sE_NvZFQu7x4BtJ_xMA-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-6" value="KETChartRootVisual.chaRender" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="130" y="380" width="290" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-11" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-8" target="3sE_NvZFQu7x4BtJ_xMA-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-8" value="设置剪切区域为图表大小" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="175" y="480" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-13" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-10" target="3sE_NvZFQu7x4BtJ_xMA-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-10" value="travelPaintElements 收集所有需要绘制的对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="80" y="590" width="333" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-15" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-12" target="3sE_NvZFQu7x4BtJ_xMA-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-12" value="对象并排序" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="100" y="710" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-18" value="" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;endArrow=block;endFill=1;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;fontSize=14;fontColor=#333333;" edge="1" parent="MmcqLC3iyLcUtxY_y7rE-1" source="3sE_NvZFQu7x4BtJ_xMA-14" target="3sE_NvZFQu7x4BtJ_xMA-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-14" value="EtShape 图表对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="380" y="770" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3sE_NvZFQu7x4BtJ_xMA-17" value="EtShape 图表对象" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="MmcqLC3iyLcUtxY_y7rE-1">
+          <mxGeometry x="550" y="620" width="200" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
